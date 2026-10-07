@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "IT313 React State Hooks",
+    "slug": "it313-react-state-hooks",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
